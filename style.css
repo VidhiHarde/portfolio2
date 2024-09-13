@@ -122,40 +122,31 @@ button{
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .profile1{
-        margin: 100px 0 0 200px;
+        margin: 80px 0 0 200px;
         height:80px;
         width:0%;
         display:flex;
         justify-content: center;
         gap: 10px;
-        position: absolute;
-        top:158%;
-        right:90%;
-
     }
 
     .profile2{
-        margin: 100px 0 0 200px;
+        margin: 80px 0 0 200px;
         height:80px;
         width:0%;
         display:flex;
         justify-content: center;
         gap: 10px;
-        position: absolute;
-        top:172%;
-        right:90%;
+        
 
     }
     .profile3{
-        margin: 100px 0 0 200px;
+        margin: 80px 0 0 200px;
         height:80px;
         width:0%;
         display:flex;
         justify-content: center;
         gap: 10px;
-        position: absolute;
-        top:186%;
-        right:90%;
 
     }
     .font1{
